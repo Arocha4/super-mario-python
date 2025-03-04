@@ -1,7 +1,7 @@
 from copy import copy
 
 from entities.EntityBase import EntityBase
-
+#test
 
 class Coin(EntityBase):
     def __init__(self, screen, spriteCollection, x, y, gravity=0):
